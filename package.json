@@ -4,7 +4,7 @@
   "description": "TailwindCSS Workspace for EWB including Flowbite, Tailspark etc",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
     "DBGO": "tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
   },
   "author": "",
